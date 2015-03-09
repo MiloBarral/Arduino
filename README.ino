@@ -1,4 +1,4 @@
-# Arduino
+/* # Arduino
 Arduino sketches
 
 Temporary edit on readme.md, this should be a separate file.
@@ -9,7 +9,7 @@ http://arduino.cc/en/Reference/analogRead
 http://arduino.cc/en/pmwiki.php?n=Reference/Map
 http://arduino.cc/en/tutorial/knob
 http://arduino.cc/en/Tutorial/LiquidCrystal
-
+*/
 
 #include <LiquidCrystal.h>
 #include <servo.h>
